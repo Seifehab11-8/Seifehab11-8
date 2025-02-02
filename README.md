@@ -1,29 +1,18 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 💫 About Me:
+-My Name is Seifalla Ehab, I am a Software Engineer<br>-Currently Studying Computer Engineering<br>-Passionate about Embedded SW and SW development
 
-###
 
-<p align="left">My name is Seifalla Ehab and I'm a Software Engineer, from Egypt.</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/seif-ehab-51a549268/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:semaziz2003@gmail.com) 
 
-###
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=seifehab11-8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=seifehab11-8&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=seifehab11-8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2 align="left">About me</h2>
+---
+[![](https://visitcount.itsvg.in/api?id=seifehab11-8&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning advanced software engineering concepts and system design<br>🎯 Goals: Score a large corporate software engineering job<br>🎲 Fun fact: I can solve a Rubik's Cube!</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
