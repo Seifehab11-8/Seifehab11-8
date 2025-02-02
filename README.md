@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning advanced software engineering concepts and system design<br>🎯 Goals: Score a large corporate software engineering job<br>🎲 Fun fact: I can solve a Rubik's Cube in under 2 minutes!</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning advanced software engineering concepts and system design<br>🎯 Goals: Score a large corporate software engineering job<br>🎲 Fun fact: I can solve a Rubik's Cube!</p>
 
 ###
 
