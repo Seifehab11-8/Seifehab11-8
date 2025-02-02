@@ -1,5 +1,8 @@
-## 💫 About Me:
-# My Name is Seifalla Ehab, I am a Software Engineer<br># Currently Studying Computer Engineering<br># Passionate about Embedded SW and SW development
+# 💫 About Me:
+
+<h2 style="font-size: 20px;">My Name is Seifalla Ehab, I am a Software Engineer</h2>
+<h3 style="font-size: 18px;">Currently Studying Computer Engineering</h3>
+<p style="font-size: 16px;">Passionate about Embedded SW and SW development this is the full heading</p>
 
 
 ## 🌐 Socials:
